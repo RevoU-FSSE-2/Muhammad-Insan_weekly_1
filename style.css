@@ -51,6 +51,13 @@ a.active {
     color: white;
     font-size: large;
 }
+.question{
+  color: #ffffff;
+  font-size: x-large;
+}
 .copyright{
     color:white;
+}
+input{
+  height: 2em;
 }
